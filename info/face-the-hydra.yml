@@ -1,0 +1,18 @@
+---
+object: set
+id: 7d4d5ad5-9936-419c-a278-529d560589e7
+code: tfth
+name: Face the Hydra
+uri: https://api.scryfall.com/sets/7d4d5ad5-9936-419c-a278-529d560589e7
+scryfall_uri: https://scryfall.com/sets/tfth
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atfth&unique=prints
+released_at: '2013-10-19'
+set_type: token
+card_count: 15
+parent_set_code: ths
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: ths
+block: Theros
+icon_svg_uri: https://svgs.scryfall.io/sets/ths.svg?1694404800
